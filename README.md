@@ -1,5 +1,8 @@
 # AGENTIC InsurTech Application
 
+![agent_performance](https://github.com/user-attachments/assets/d90c8862-621f-4f90-bb75-016de9e26cf2)
+
+
 A drag & drop insurance technology application with AI agents for underwriting, claims processing, and customer support.
 
 ## Features
